@@ -1,0 +1,27 @@
+﻿{
+    "InstanceId": "i-0d65b5ced25409a94",
+    "Timestamp": "2026-02-25T12:34:11+00:00",
+aws : 
+At line:1 char:20
++ ... S_PAGER=""; aws 
+ec2 get-console-output 
+--instance-id 
+"i-0d65b5ced2540 ...
++                 ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (:String) [],    
+ RemoteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+'charmap' codec can't 
+encode character 
+'\u2192' in position 
+18970: character maps 
+to <undefined>
+    "Output": 
